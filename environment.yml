@@ -1,4 +1,4 @@
-name: py3ml
+name: ten
 channels:
   - conda-forge
   - defaults
