@@ -5,9 +5,9 @@ Repository for Physics-infomred Convolutional Neural Networks
 
 - **Anisotropic Resistivity Tomography**: 
 - **2D Kolmogorov Flow**: 
-- **Flow past a Bluff body**: 
-- **Urban modelling**: 
-- **Unstuctured mesh**: 
+- **Flow Past a Bluff Body**: 
+- **Urban Modelling**: 
+- **Unstuctured Mesh**: 
 
 ## Requirements
 
