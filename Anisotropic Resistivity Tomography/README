@@ -1,1 +1,9 @@
-This is a testing code for solving three-dimensional anisotropic problem with multigrid. 
+This is a testing code for solving three-dimensional steady anisotropic problem with multigrid. 
+------------ Testing and debugging -----------------
+Anisotropic_3d_Multigrid_7point.ipynb: 
+Initial testing code for a cube domain with uniform grid size and without boundary conditions
+Anisotropic_3d_Multigrid_7point_BC.ipynb: 
+Add Neumann boundary condition at the top of the domain 
+**Anisotropic_3d_Multigrid_7point_BC_Rec.ipynb**: 
+Test the code for a rectangular domain still with uniform grid size 
+------------ Merged version -----------------
