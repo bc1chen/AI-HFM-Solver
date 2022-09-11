@@ -6,6 +6,8 @@ $ Anisotropic_3d_Multigrid_7point_BC.ipynb:
 Add Neumann boundary condition at the top of the domain 
 $ Anisotropic_3d_Multigrid_7point_BC_Rec.ipynb: 
 Test the code for a rectangular domain still with uniform grid size 
+
+
 ------------ Merged version -----------------
 $ BGS_multigrid_v1.ipynb
 Implement non-uniform grid size based on the theory for the formula 
