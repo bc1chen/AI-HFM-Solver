@@ -2,7 +2,7 @@
 Repository for the novel CFD approach called AI4CFD and no traniing of the network is needed. More detailed implementation can be found in two preprints 
 - **"Using AI libraries for incompressible Computational Fluid Dynamics"** 
 https://www.imperial.ac.uk/people/boyang.chen16/document/10322/AI_for_CFD/?AI_for_CFD.pdf
-- **"Using Graph Neural Networks for Incompressible CFD on Unstructured Meshes"** 
+- **"Using Graph Neural Networks for Incompressible CFD on Unstructured Meshes"** \
 https://www.imperial.ac.uk/people/boyang.chen16
 
 ## Applications of Simulator:
