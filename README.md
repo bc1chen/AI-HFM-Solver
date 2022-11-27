@@ -1,7 +1,7 @@
-# AI-HFM-Solver
-Repository for Artificial Intelligence-based CFD Simulator. This novel CFD approach is called AI4CFD, and no traniing of the network is needed. 
+# Rapid Artificial Intelligence-based Multi-physic CFD Simulator
+Repository for the novel CFD approach called AI4CFD and no traniing of the network is needed. 
 
-## Directories:
+## Applications of Simulator:
 
 - **Anisotropic Resistivity Tomography**: 
 - **2D Kolmogorov Flow**: 
